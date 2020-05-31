@@ -60,7 +60,7 @@ import { CategoryComponent } from './category/category.component';
     ReactiveFormsModule,
     BrowserAnimationsModule,
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyDdSAnHIs9l4jTCGgB0hPTKJqLMSzZODyE'
+      apiKey: ''
     })
   ],
   providers: [],
